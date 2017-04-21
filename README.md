@@ -5,6 +5,13 @@ This project is a complex fully functional cross playform mobile app for searchi
 It features Facebook login, and a map to specify a job search area. Users can make use of the Tinder "swipe" feature to specify jobs that they are interested in.
 
 
+The following technologies were used to make this application:-
+1. React
+2. React Native
+3. Redux
+4. Expo's Map and Facebook Login SDK
+
+
 Made while taking the React Native: Advanced Concepts course instructed by Stephen Grider. https://www.udemy.com/react-native-advanced/
 
 ## Screenshots
