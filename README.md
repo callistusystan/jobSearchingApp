@@ -10,6 +10,7 @@ The following technologies were used to make this application:-
 2. React Native
 3. Redux
 4. Expo's Map and Facebook Login SDK
+5. Indeed Job searching API
 
 
 Made while taking the React Native: Advanced Concepts course instructed by Stephen Grider. https://www.udemy.com/react-native-advanced/
